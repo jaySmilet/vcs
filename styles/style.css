@@ -43,3 +43,9 @@ ul.navbar-nav{
 .content{
     margin: 0 9.5rem;
 }
+.footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: #000;
+    color: #fff;
+}
